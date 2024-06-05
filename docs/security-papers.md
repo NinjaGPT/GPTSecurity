@@ -198,6 +198,8 @@ description: 在安全领域应用GPT/AIGC/LLM的论文以及博文
     https://arxiv.org/abs/2307.12488
 76. How well does LLM generate security tests? \
     [https://arxiv.org/pdf/2310.00710.pdf](https://arxiv.org/pdf/2310.00710.pdf)
+77. LLM-Assisted Static Analysis for Detecting Security Vulnerabilities \
+    [https://arxiv.org/pdf/2405.17238.pdf](https://arxiv.org/pdf/2405.17238.pdf)
 
 ### 博客
 
